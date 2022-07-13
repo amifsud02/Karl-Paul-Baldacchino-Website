@@ -7,7 +7,7 @@ const ScrollDown = () => {
                     <p>Scroll down to see more</p>
                 </div>
                 <div className="scroll-down-content-arrow">
-                    <img src="/images/arrow.svg" alt="arrow"/>
+                   
                 </div>
             </div>
         </div>
